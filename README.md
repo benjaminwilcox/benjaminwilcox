@@ -1,6 +1,6 @@
 ## Hi there, I'm Ben
 
-DevSecOps Engineer, Graduate Student at Georgia Institute of Technology
+DevSecOps Engineer
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/benjaminwilcox/benjaminwilcox/output/github-snake-dark.svg" />
